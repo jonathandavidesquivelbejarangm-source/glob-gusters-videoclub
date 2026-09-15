@@ -1,5 +1,5 @@
 -- Base de Datos Relacional Glob-Gusters Video-Club
--- Autor: Andrés Felipe Gutiérrez Rivera
+-- Autor: Jonathan David Esquivel Bejarano
 -- Fecha: 2026-09-15
 
 -- Creación de la base de datos
