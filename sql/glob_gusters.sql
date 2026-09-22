@@ -11,7 +11,7 @@ USE `glob_gusters`;
 
 
 -- 1. Tablas independientes
-CREATE TABLE Nacionalidad (
+CREATE TABLE IF NOT EXISTS Nacionalidad (
     ID_Nacionalidad int AUTO_INCREMENT PRIMARY KEY,
     Nombre varchar(100),
     Fecha DATE
