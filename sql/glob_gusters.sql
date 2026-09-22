@@ -11,6 +11,12 @@ USE `glob_gusters`;
 
 
 -- 1. Tablas independientes
+CREATE TABLE Nacionalidad (
+    ID_Nacionalidad int AUTO_INCREMENT PRIMARY KEY,
+    Nombre varchar(100),
+    Fecha DATE
+);
+
 CREATE TABLE Estado (
     ID_Estado int AUTO_INCREMENT PRIMARY KEY,
     Nombre varchar(100)
